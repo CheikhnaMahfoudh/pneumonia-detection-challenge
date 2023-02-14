@@ -28,7 +28,7 @@ The x-ray images are classified as either NORMAL or PNEUMONIA, according to the 
 
 Please begin by forking this repository, such that any changes you make will be stored on your own copy.
 
-Your task is to improve upon the performance of the baseline model, along with supplying brief explanations and evidence for the changes you have made.
+Your task is to improve upon the performance of the baseline model, along with supplying brief explanations and evidence for the changes you have made. You can modify the code in whatever manner you like in order to achieve this, as long as the predictions are still made using a neural network.
 
 At the end of the evaluation period, please push any code, documentation, plots/graphs, and other materials to your forked repository, along with a short description of your process and findings in the Report section of this readme.
 
